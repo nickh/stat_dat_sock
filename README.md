@@ -1,4 +1,4 @@
 Stat Dat Sock
 =============
 
-We need those infos.
+We need those infoz.
